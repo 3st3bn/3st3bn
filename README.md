@@ -1,7 +1,6 @@
 # 👋 Hi, I’m @3st3bn
 
 - 👀 I’m interested in software development, data science, and open-source projects.
-- 🌱 I’m currently learning advanced Python programming, machine learning, and cloud computing.
 - 💞️ I’m looking to collaborate on innovative projects that aim to solve real-world problems, particularly those involving AI and big data.
 - 📫 How to reach me: 
   - Email: estebanyoh24@gmail.com
